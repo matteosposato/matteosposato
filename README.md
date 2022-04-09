@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @matteosposato
 - 👀 I’m interested in coding, politics, social sciences, reading and writing
-- 🌱 I’m currently learning Data Science on Codecademy.
-- 💞️ I’m looking to collaborate on a data analyzing project about society develop
-- 📫 How to reach me: e-m@il: sposato595@gmail.com; Whatsapp: +39 3917590491; Home: Altilia, Cosenza, Italy
+- 🌱 I’m currently learning Full Stack Engineer Carrier Path on Codecademy.
+- 💞️ I’m looking to collaborate on web developing, about fields that can help people.
+- 📫 How to reach me: <br>  e-m@il: sposato595@gmail.com; <br>  Whatsapp: +39 3917590491; <br>  Home: Altilia, Cosenza, Italy
 
 <!---
 matteosposato/matteosposato is a ✨ special ✨ repository because its `aboutme.md` (this file) appears on your GitHub profile.
